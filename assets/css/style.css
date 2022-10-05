@@ -11,6 +11,7 @@ width: 22px;
 height: 21px;
 left: 121px;
 top: 184px;
+
 }
 .saat{
     position: absolute;
@@ -81,10 +82,11 @@ line-height: 101.38%;
 }
 .zar{
     position: absolute;
-width: 414px;
+width: 469px;
 height: 62px;
 left: 122px;
 top: 427px;
+padding-top: 31px;
 
 font-family: 'Roboto';
 font-style: normal;
